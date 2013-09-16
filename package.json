@@ -1,0 +1,24 @@
+{
+  "name": "transcripts",
+  "version": "0.0.1",
+  "description": "The Hyperaudio Transcripts.",
+  "homepage": "http://hyperaud.io", 
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hyperaudio-dev/transcripts.git"
+  },
+  "keywords": [
+    "audio",
+    "video",
+    "transcript"
+  ],
+  "author": "Hyperaudio Inc. <hello@hyperaud.io> (http://hyperaud.io)",
+  "contributors": [
+    "Mark Boas <mark@hyperaud.io> (http://hyperaud.io)",
+    "Mark Panaghiston <markp@happyworm.com> (http://happyworm.com)"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hyperaudio-dev/transcripts/issues"
+  }
+}
