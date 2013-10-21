@@ -5,23 +5,23 @@ Hypertranscripts
 
 Latest format:
 
-<article>
-	<header></header>
-	<section>
-		<header></header>
-		<p><a>
+&lt;article&gt;
+	&lt;header&gt;&lt;/header&gt;
+	&lt;section&gt;
+		&lt;header&gt;&lt;/header&gt;
+		&lt;p&gt;&lt;a&gt;
 			.
 			.
 			.
-		<footer></footer>
-	<section>
+		&lt;footer&gt;&lt;/footer&gt;
+	&lt;section&gt;
 		.
 		.
 		.
-	<footer><footer>
-</article>
+	&lt;footer&gt;&lt;footer&gt;
+&lt;/article&gt;
 
-Media will be stored and referenced from data.hyperaud.io/video/<Directory>
+Media will be stored and referenced from data.hyperaud.io/video/&lt;Directory&gt;
 
 0. ts-clapper-march-13.htm - media currently : [hyperaud.io/video/clapper-march-13.mp4](http://hyperaud.io/video/clapper-march-13.mp4) [hyperaud.io/video/clapper-march-13.webm](http://hyperaud.io/video/clapper-march-13.webm)
 
@@ -59,3 +59,6 @@ Name : 2012 US Presidential Debate (3)
 Directory: US Politics
 
 7. ts-us-presidential-debate-2012-part-4.htm - media currently : [bc05.ajnm.me/665003303001/665003303001_1918634827001_DEBATE-4-22OCT.mp4](http://bc05.ajnm.me/665003303001/665003303001_1918634827001_DEBATE-4-22OCT.mp4) [webapps.aljazeera.net/aje/custom/debate/d4/debate4.webm](http://webapps.aljazeera.net/aje/custom/debate/d4/debate4.webm)
+
+Name : 2012 US Presidential Debate (4)
+Directory: US Politics
