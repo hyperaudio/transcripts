@@ -73,3 +73,13 @@ Directory: US Politics
 
 Name : 2012 US Presidential Debate (4)
 Directory: US Politics
+
+(10) ts-remix-manifesto.htm - media currently : [hyperaud.io/video/remix-manifesto.mp4](http://hyperaud.io/video/remix-manifesto.mp4) [hyperaud.io/video/remix-manifesto.webm](http://hyperaud.io/video/remix-manifesto.webm)
+
+Name : Remix Manifesto
+Directory: Maker Culture
+
+(11) ts-coderush.htm - media currently : [hyperaud.io/video/coderush.mp4](http://hyperaud.io/video/coderush.mp4) [hyperaud.io/video/coderush.webm](http://hyperaud.io/video/coderush.webm)
+
+Name : Coderush
+Directory: Maker Culture
