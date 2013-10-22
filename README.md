@@ -54,12 +54,22 @@ Directory: Privacy
 Name : Internet Amazonians
 Directory: Al Jazeera
 
-(6) ts-us-presidential-debate-2012-part-3.htm - media currently : [bc05.ajnm.me/665003303001/665003303001_1905579071001_DEBATE3-SOT-03D-17.mp4](http://bc05.ajnm.me/665003303001/665003303001_1905579071001_DEBATE3-SOT-03D-17.mp4) [webapps.aljazeera.net/aje/custom/debate/d3/debate3.webm](http://webapps.aljazeera.net/aje/custom/debate/d3/debate3.webm)
+(6) ts-us-presidential-debate-2012-part-1.htm : [bc05.ajnm.me/665003303001/665003303001_1876562017001_US-PRES-DEBATE-1.mp4](http://bc05.ajnm.me/665003303001/665003303001_1876562017001_US-PRES-DEBATE-1.mp4) [webapps.aljazeera.net/aje/custom/debate/d1/debate.webm](http://webapps.aljazeera.net/aje/custom/debate/d1/debate.webm)
+
+Name : 2012 US Presidential Debate (1)
+Directory: US Politics
+
+(7) ts-us-presidential-debate-2012-part-2.htm : [bc05.ajnm.me/665003303001/665003303001_1895622674001_VPDEBATE-SOT-02D-12.mp4](http://bc05.ajnm.me/665003303001/665003303001_1895622674001_VPDEBATE-SOT-02D-12.mp4) [webapps.aljazeera.net/aje/custom/debate/d2/vpdebate.webm](http://webapps.aljazeera.net/aje/custom/debate/d2/vpdebate.webm)
+
+Name : 2012 US Presidential Debate (2)
+Directory: US Politics
+
+(8) ts-us-presidential-debate-2012-part-3.htm - media currently : [bc05.ajnm.me/665003303001/665003303001_1905579071001_DEBATE3-SOT-03D-17.mp4](http://bc05.ajnm.me/665003303001/665003303001_1905579071001_DEBATE3-SOT-03D-17.mp4) [webapps.aljazeera.net/aje/custom/debate/d3/debate3.webm](http://webapps.aljazeera.net/aje/custom/debate/d3/debate3.webm)
 
 Name : 2012 US Presidential Debate (3)
 Directory: US Politics
 
-(7) ts-us-presidential-debate-2012-part-4.htm - media currently : [bc05.ajnm.me/665003303001/665003303001_1918634827001_DEBATE-4-22OCT.mp4](http://bc05.ajnm.me/665003303001/665003303001_1918634827001_DEBATE-4-22OCT.mp4) [webapps.aljazeera.net/aje/custom/debate/d4/debate4.webm](http://webapps.aljazeera.net/aje/custom/debate/d4/debate4.webm)
+(9) ts-us-presidential-debate-2012-part-4.htm - media currently : [bc05.ajnm.me/665003303001/665003303001_1918634827001_DEBATE-4-22OCT.mp4](http://bc05.ajnm.me/665003303001/665003303001_1918634827001_DEBATE-4-22OCT.mp4) [webapps.aljazeera.net/aje/custom/debate/d4/debate4.webm](http://webapps.aljazeera.net/aje/custom/debate/d4/debate4.webm)
 
 Name : 2012 US Presidential Debate (4)
 Directory: US Politics
