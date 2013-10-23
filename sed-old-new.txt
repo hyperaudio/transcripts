@@ -1,0 +1,5 @@
+sed -i 's/m=/data-m=/g' <filename>
+sed -i 's/<span/<a/g' <filename>
+sed -i 's/span>/a>/g' <filename>
+sed -i 's/> </></g' <filename>
+sed -i 's/<\/a>/ <\/a>/g' <filename>

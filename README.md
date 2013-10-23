@@ -49,37 +49,47 @@ Directory: Privacy
 Name : NSA - Snowden Reveals
 Directory: Privacy
 
-(5) ts-internetindians.htm - media currently : [hyperaud.io/video/internetindians.mp4](http://hyperaud.io/video/internetindians.mp4) [hyperaud.io/internetindians.webm](http://hyperaud.io/video/internetindians.webm)
+(5) ts-internetindians.htm - media currently : [hyperaud.io/video/internetindians.mp4](http://hyperaud.io/video/internetindians.mp4) [hyperaud.io/video/internetindians.webm](http://hyperaud.io/video/internetindians.webm)
 
 Name : Internet Amazonians
 Directory: Al Jazeera
 
-(6) ts-us-presidential-debate-2012-part-1.htm : [bc05.ajnm.me/665003303001/665003303001_1876562017001_US-PRES-DEBATE-1.mp4](http://bc05.ajnm.me/665003303001/665003303001_1876562017001_US-PRES-DEBATE-1.mp4) [webapps.aljazeera.net/aje/custom/debate/d1/debate.webm](http://webapps.aljazeera.net/aje/custom/debate/d1/debate.webm)
+(6) ts-raidsinrainforest.htm - media currently : [hyperaud.io/video/raidsinrainforest.mp4](http://hyperaud.io/video/raidsinrainforest.mp4) [hyperaud.io/video/raidsinrainforest.webm](http://hyperaud.io/video/raidsinrainforest.webm)
+
+Name : Raids in the Rainforest
+Directory: Al Jazeera
+
+(7) ts-justiceboat.htm - media currently : [hyperaud.io/video/justiceboat.mp4](http://hyperaud.io/video/justiceboat.mp4) [hyperaud.io/video/justiceboat.webm](http://hyperaud.io/video/justiceboat.webm)
+
+Name : The Justice Boat
+Directory: Al Jazeera
+
+(8) ts-us-presidential-debate-2012-part-1.htm : [bc05.ajnm.me/665003303001/665003303001_1876562017001_US-PRES-DEBATE-1.mp4](http://bc05.ajnm.me/665003303001/665003303001_1876562017001_US-PRES-DEBATE-1.mp4) [webapps.aljazeera.net/aje/custom/debate/d1/debate.webm](http://webapps.aljazeera.net/aje/custom/debate/d1/debate.webm)
 
 Name : 2012 US Presidential Debate (1)
 Directory: US Politics
 
-(7) ts-us-presidential-debate-2012-part-2.htm : [bc05.ajnm.me/665003303001/665003303001_1895622674001_VPDEBATE-SOT-02D-12.mp4](http://bc05.ajnm.me/665003303001/665003303001_1895622674001_VPDEBATE-SOT-02D-12.mp4) [webapps.aljazeera.net/aje/custom/debate/d2/vpdebate.webm](http://webapps.aljazeera.net/aje/custom/debate/d2/vpdebate.webm)
+(9) ts-us-presidential-debate-2012-part-2.htm : [bc05.ajnm.me/665003303001/665003303001_1895622674001_VPDEBATE-SOT-02D-12.mp4](http://bc05.ajnm.me/665003303001/665003303001_1895622674001_VPDEBATE-SOT-02D-12.mp4) [webapps.aljazeera.net/aje/custom/debate/d2/vpdebate.webm](http://webapps.aljazeera.net/aje/custom/debate/d2/vpdebate.webm)
 
 Name : 2012 US Presidential Debate (2)
 Directory: US Politics
 
-(8) ts-us-presidential-debate-2012-part-3.htm - media currently : [bc05.ajnm.me/665003303001/665003303001_1905579071001_DEBATE3-SOT-03D-17.mp4](http://bc05.ajnm.me/665003303001/665003303001_1905579071001_DEBATE3-SOT-03D-17.mp4) [webapps.aljazeera.net/aje/custom/debate/d3/debate3.webm](http://webapps.aljazeera.net/aje/custom/debate/d3/debate3.webm)
+(10) ts-us-presidential-debate-2012-part-3.htm - media currently : [bc05.ajnm.me/665003303001/665003303001_1905579071001_DEBATE3-SOT-03D-17.mp4](http://bc05.ajnm.me/665003303001/665003303001_1905579071001_DEBATE3-SOT-03D-17.mp4) [webapps.aljazeera.net/aje/custom/debate/d3/debate3.webm](http://webapps.aljazeera.net/aje/custom/debate/d3/debate3.webm)
 
 Name : 2012 US Presidential Debate (3)
 Directory: US Politics
 
-(9) ts-us-presidential-debate-2012-part-4.htm - media currently : [bc05.ajnm.me/665003303001/665003303001_1918634827001_DEBATE-4-22OCT.mp4](http://bc05.ajnm.me/665003303001/665003303001_1918634827001_DEBATE-4-22OCT.mp4) [webapps.aljazeera.net/aje/custom/debate/d4/debate4.webm](http://webapps.aljazeera.net/aje/custom/debate/d4/debate4.webm)
+(11) ts-us-presidential-debate-2012-part-4.htm - media currently : [bc05.ajnm.me/665003303001/665003303001_1918634827001_DEBATE-4-22OCT.mp4](http://bc05.ajnm.me/665003303001/665003303001_1918634827001_DEBATE-4-22OCT.mp4) [webapps.aljazeera.net/aje/custom/debate/d4/debate4.webm](http://webapps.aljazeera.net/aje/custom/debate/d4/debate4.webm)
 
 Name : 2012 US Presidential Debate (4)
 Directory: US Politics
 
-(10) ts-remix-manifesto.htm - media currently : [hyperaud.io/video/remix-manifesto.mp4](http://hyperaud.io/video/remix-manifesto.mp4) [hyperaud.io/video/remix-manifesto.webm](http://hyperaud.io/video/remix-manifesto.webm)
+(12) ts-remix-manifesto.htm - media currently : [hyperaud.io/video/remix-manifesto.mp4](http://hyperaud.io/video/remix-manifesto.mp4) [hyperaud.io/video/remix-manifesto.webm](http://hyperaud.io/video/remix-manifesto.webm)
 
 Name : Remix Manifesto
 Directory: Maker Culture
 
-(11) ts-coderush.htm - media currently : [hyperaud.io/video/coderush.mp4](http://hyperaud.io/video/coderush.mp4) [hyperaud.io/video/coderush.webm](http://hyperaud.io/video/coderush.webm)
+(13) ts-coderush.htm - media currently : [hyperaud.io/video/coderush.mp4](http://hyperaud.io/video/coderush.mp4) [hyperaud.io/video/coderush.webm](http://hyperaud.io/video/coderush.webm)
 
 Name : Coderush
 Directory: Maker Culture
